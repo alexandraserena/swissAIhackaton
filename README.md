@@ -31,3 +31,19 @@ Our project features a sustainable, scalable business model, capable of serving 
 - Universities, companies, and organizations for international mobility could integrate it as an additional service for students and foreign workers.
 - Premium services (multilingual support, priority assistance, integration with automated procedures, real-time updates) could generate sustainable revenue streams.
 The chatbot is not just a technical project, but a step toward a national ecosystem of digital civic assistance, built on transparency, reliability, and universal accessibility.
+
+
+# Backend pipeline
+
+
+
+
+
+
+
+
+# General pipeline frontend
+
+![Screenshot del workflow](https://github.com/user-attachments/assets/22ddc4c1-1f67-4cbe-97b4-a6824a8e2c21)
+
+
