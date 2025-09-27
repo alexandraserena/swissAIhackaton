@@ -34,16 +34,8 @@ The chatbot is not just a technical project, but a step toward a national ecosys
 
 
 # Backend pipeline
-
-
-
-
-
-
-
-
+![Screenshot pipeline](https://github.com/user-attachments/assets/7844f057-34c3-4550-a563-b63603c6af7e)
 # General pipeline frontend
-
 ![Screenshot del workflow](https://github.com/user-attachments/assets/22ddc4c1-1f67-4cbe-97b4-a6824a8e2c21)
 
 
