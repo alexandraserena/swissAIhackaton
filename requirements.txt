@@ -1,0 +1,15 @@
+streamlit
+sentence-transformers
+faiss-cpu
+PyPDF2
+beautifulsoup4
+openai
+numpy
+python-dotenv
+elevenlabs
+
+folium
+streamlit-folium
+geopandas
+shapely
+pyproj
