@@ -2,7 +2,7 @@
 AI assistive chatbot that gives instructions to anyone about three cantons of Switzerland: Zurich, Vaud, Neuchâtel. We used RAG assistant and Apertus open source.
 
 
-## SwissAI Civic Chatbot
+## SwissAI Civic Chatbot: STEMilie
 
 Our project originates from a personal need: as international students, we have experienced firsthand how challenging it can be to navigate bureaucracy, regulations, and logistical procedures 
 in a new country. Often, you don’t know who to turn to for practical questions, and the risk is getting lost among dozens of websites, PDFs, and regulations.
